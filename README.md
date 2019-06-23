@@ -1,9 +1,9 @@
 # brew-temperature-control
 Simple temperature control for arduino
-![](fritzing/sketch.svg)
+![](fritzing/sketch.png)
 
 ## Work in Progress
-- [ ] add display (8 digit 7-segment display with MAX7219) to sketch
+- [x] add display (8 digit 7-segment display with MAX7219) to sketch
 - [ ] combine code snippets into one programm that
     - [ ] continuously displays the current temperature 
     - [ ] switches the heating element on and off according to a target temperature
